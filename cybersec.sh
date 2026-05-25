@@ -31,7 +31,7 @@ NC='\033[0m'
 # GLOBALS
 # ============================================================================
 VERSION="1.0"
-REPO="almoparmgshoGit/root-red-team"
+REPO="RootAcademy/cybersec"
 UPDATE_CACHE="/tmp/.rrt_update_check"
 LOG_FILE="/tmp/rrt-$(date +%Y%m%d-%H%M%S).log"
 TERM_WIDTH=$(tput cols 2>/dev/null || echo 80)
